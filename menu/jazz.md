@@ -8,7 +8,7 @@ title: Jazz
 		{%- if tag_name != "jazz" and forloop.index > 1 -%}
 			, <a href="{{ site.github.url }}/tag/{{ tag_name }}">{{ tag_name }}</a>
 		{%- elsif tag_name != "jazz" -%}
-			<a href="/tag/{{ tag_name }}">{{ tag_name }}</a>
+			<a href="{{ site.github.url }}/tag/{{ tag_name }}">{{ tag_name }}</a>
 		{%- endif -%}
 	{%- endfor -%}
 </p>
