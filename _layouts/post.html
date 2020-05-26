@@ -6,6 +6,8 @@ layout: default
   {{ page.title }}
 </h1>
 
+<p class="post-date"><span><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</span></p>
+
 {% if page.image %}
   <img src="{{ site.github.url }}/assets/img/{{ page.image }}">
 {% endif %}
