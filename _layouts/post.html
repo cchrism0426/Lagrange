@@ -36,6 +36,10 @@ layout: default
 
 {% include related-posts.html %}
 
+{% comment %}
 {% if site.data.settings.disqus.comments %}
   {% include disqus.html %}
 {% endif %}
+{% endcomment %}
+
+{% include commento.html %}
