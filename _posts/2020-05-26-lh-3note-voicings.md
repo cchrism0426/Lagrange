@@ -16,6 +16,8 @@ Left hand 3-note voicings are one of the essential building blocks for solo jazz
 
 ![alt text]({{ site.github.url }}/assets/img/lh-3h-voicings/rooted.png "Rooted 3-Note Voicings")
 
-Rooted 3-note voicings consist of the root and shell. Above are the three different possible rooted 3-note voicings.
+Rooted 3-note voicings consist of the root and shell. Above are the three different possible rooted 3-note voicings. These are basic voicings that all jazz pianists know.
 
 ## Rootless
+
+{{ site.github.url || jsonify }}
