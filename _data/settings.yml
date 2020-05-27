@@ -4,7 +4,7 @@ disqus:
   disqus_shortname: 'pippinpotatocorner'
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-ID: ''
+google-ID: 'UA-167746044-1'
 
 menu:
 - {name: 'Jazz', path: 'menu', url: 'jazz.html'}
