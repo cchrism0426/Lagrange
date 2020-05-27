@@ -4,7 +4,7 @@ title: "Finding Two-Handed Jazz Voicings Based on the Melody Note"
 author: "Chris Cheung"
 categories: jazz
 tags: [voicing, jazz]
-image: forest.jpg
+image: stretch.jpg
 ---
 
 When we start learning jazz chords we are taught how to play block chords. Block chords are great, but I wanted a way to find better voicings on the fly according to the top melody note. It's overwhelming trying to figure out a good two-handed voicing, as there are so many possible ways to voice a single chord. This is a system I use for creating good voicings based around what the melody top note is. Having a system makes it less daunting and gives you an organized approach to finding a voicing for a particular chord.
