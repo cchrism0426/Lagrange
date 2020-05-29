@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "\"Someday My Prince Will Come\" Solo Transcription (John Coltrane)"
+title: "Someday My Prince Will Come Solo Transcription (John Coltrane)"
 author: "Chris Cheung"
 categories: jazz
 tags: [transcriptions, jazz]
