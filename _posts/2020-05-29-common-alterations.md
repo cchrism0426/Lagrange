@@ -51,4 +51,6 @@ It's hard to tell by playing these chords on their own, but after trying them ou
 
 ## Final Note
 
-Just as a disclaimer, the chords listed out on the music staffs in the article are just a graphic to show which are the available extensions and alterations for each chord; they aren't actual chord voicings. Each extension and alteration gives its own special color to the chord, and by playing around with them more you can get a feel for which extensions and alterations you prefer.
+Just as a disclaimer, the chords listed out on the music staffs in the article are just a graphic to show which are the available extensions and alterations for each chord; they aren't actual chord voicings. Each extension and alteration gives its own special color to the chord, and by playing around with them more you can get a feel for which extensions and alterations you prefer. 
+
+Another important note is that you can look at the melody note to get an idea of what extensions/alterations to use. For example, if the chord is a C half-diminished 7 and the melody note is a D&#9838;, you probably don't want to use D&#9837; as an alteration.
