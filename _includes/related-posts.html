@@ -24,30 +24,26 @@
   <h1 >{{ site.data.settings.related_posts }}</h1>
   <ul class="related-posts">
     <script type="text/javascript">
-      var randomIndexUsed = [];
-      var counter = 0;
-      var numberOfPosts = 5;
-      while (counter < numberOfPosts)
-      {
+      var numberOfPosts = 3;
+      for (var i = 0; i < tag_order.length; i++) {
+        var currTag = tag_order[i];
+        var currPosts = tag_dict[currTag];
+        var randomIndexUsed = [];
+        var counter = 0;
+        while (counter < numberOfPosts && counter < currPosts.length) {
           var randomIndex;
           var postHREF;
           var postTitle;
-          randomIndex = Math.floor(Math.random() * postsHREF.length);
-          if (randomIndexUsed.indexOf(randomIndex) == "-1")
-          {
-              postHREF = postsHREF[randomIndex];
-              postTitle = postsTitle[randomIndex];
-              if (counter == (numberOfPosts - 1))
-              {
-                  document.write('<li><h3><a href="' + postHREF + '">' + postTitle + '</a></h3></li>');
-              }
-              else
-              {
-                  document.write('<li><h3><a href="' + postHREF + '">' + postTitle + '</a></h3></li>');
-              }
-              randomIndexUsed.push(randomIndex);
-              counter++;
+          randomIndex = Math.floor(Math.random() * currPosts.length);
+          if (randomIndexUsed.indexOf(randomIndex) == "-1") {
+            postHREF = currPosts[randomIndex][0];
+            postTitle = currPosts[randomIndex][1];
+            document.write('<li><h3><a href="' + postHREF + '">' + postTitle + '</a></h3></li>');
+            randomIndexUsed.push(randomIndex);
+            counter++;
           }
+        }
+        numberOfPosts--;
       }
     </script>
   </ul>

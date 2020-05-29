@@ -26,9 +26,31 @@
 
   <!-- used for generating random related posts -->
   <script type="text/javascript">
-    var postsHREF = [{% for post in site.posts %}"{{ post.url }}"{% unless forloop.last %},{% endunless %}{% endfor %}];
 
-    var postsTitle = [{% for post in site.posts %}"{{ post.title }}"{% unless forloop.last %},{% endunless %}{% endfor %}];
+    // var postsHREF = [{% for post in site.posts %}"{{ post.url }}"{% unless forloop.last %},{% endunless %}{% endfor %}];
+
+    // var postsTitle = [{% for post in site.posts %}"{{ post.title }}"{% unless forloop.last %},{% endunless %}{% endfor %}];
+    var tag_dict = {};
+    var tag_order = [];
+    var seen = new Set();
+
+    {% for tag in page.tags %}
+      {% for mypost in site.tags[tag] %}
+        {% if mypost.title != page.title %}
+          if (!("{{ tag }}" in tag_dict)) {
+            tag_order.push("{{ tag }}");
+            tag_dict["{{ tag }}"] = [];
+          }
+          if (!seen.has("{{ mypost.title }}")) {
+            tag_dict["{{ tag }}"].push(["{{ mypost.url }}", "{{ mypost.title }}"]);
+            seen.add("{{ mypost.title }}");
+          } 
+          // console.log("{{ tag }}");
+          // console.log("{{ mypost.url }}");
+          // console.log("{{ mypost.title }}");
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
 
   </script>
 
