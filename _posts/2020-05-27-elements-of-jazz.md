@@ -73,7 +73,7 @@ Going back to the example of a C major scale over a C maj7 chord, what this mean
 
 ## Listening
 
-The ear is the most important tool when learning jazz. Jazz used to be not a written form, but a form passed around through purely listening. Jazz wasn't created with the music theory in mind, but music theory is just something used to explain it.
+The ear is the most important tool when learning jazz. Jazz wasn't created with the music theory in mind, but music theory is just something used to explain it.
 
 I believe proper listening in jazz comprises of two components: listening to music and ear training. Listening to music should be obvious, and should also be easy. Why would you play music if you don't enjoy it. I believe everyone has their own internal capacity for music, but by listening to a lot of music you become exposed to more musical ideas and get a sense of what you think sounds good and doesn't sound good. I also believe that the music you listen to trickles into and has a hand in shaping the subconscious improvisational mind. The music shapes your improvisational mind not in the form of musical notes, but in the form of something that can't be intellectualized.
 
