@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Philosophy"
+title: "Thoughts"
 category: jazz
-tag: philosophy
+tag: thoughts
 ---

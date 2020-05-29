@@ -3,7 +3,7 @@ layout: post
 title: "Why I Play Jazz"
 author: "Chris Cheung"
 categories: jazz
-tags: [philosophy, jazz]
+tags: [thoughts, jazz]
 image: deep-bill.png
 ---
 
