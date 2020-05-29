@@ -2,6 +2,7 @@
 layout: page
 title: Jazz
 ---
+<!--
 <p> Tags:
 	{% for tag in site.tags -%}
 		{% capture tag_name %}{{ tag | first }}{% endcapture %}
@@ -11,6 +12,18 @@ title: Jazz
 			<a href="{{ site.github.url }}/tag/{{ tag_name }}">{{ tag_name }}</a>
 		{%- endif -%}
 	{%- endfor -%}
+</p> -->
+<p> Tags:
+  {% assign tagnames = site.tags_by_category %}
+  {% for tag in tagnames -%}
+    {%- if tag.category == "jazz" %}
+      {%- if forloop.index > 1 -%}
+        , <a href="{{ site.github.url }}{{ tag.url }}">{{ tag.title | downcase }}</a>
+      {%- else -%}
+        <a href="{{ site.github.url }}{{ tag.url }}">{{ tag.title | downcase }}</a>
+      {%- endif -%}
+    {%- endif -%}
+  {%- endfor -%}
 </p>
 <ul class="posts">
   {% for post in site.categories['jazz'] %}

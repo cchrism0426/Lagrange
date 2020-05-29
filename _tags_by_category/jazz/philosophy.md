@@ -1,6 +1,6 @@
 ---
 layout: tagpage
 title: "Philosophy"
-category: "Jazz"
+category: jazz
 tag: philosophy
 ---

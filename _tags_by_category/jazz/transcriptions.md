@@ -1,6 +1,6 @@
 ---
 layout: tagpage
 title: "Transcriptions"
-category: "Jazz"
+category: jazz
 tag: transcriptions
 ---

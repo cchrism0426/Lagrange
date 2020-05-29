@@ -1,6 +1,6 @@
 ---
 layout: tagpage
 title: "Voicing"
-category: "Jazz"
+category: jazz
 tag: voicing
 ---

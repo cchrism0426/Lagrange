@@ -1,6 +1,6 @@
 ---
 layout: tagpage
 title: "Basics"
-category: "Jazz"
+category: jazz
 tag: basics
 ---

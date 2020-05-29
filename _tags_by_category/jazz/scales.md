@@ -1,6 +1,6 @@
 ---
 layout: tagpage
 title: "Scales"
-category: "Jazz"
+category: jazz
 tag: scales
 ---

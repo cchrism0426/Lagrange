@@ -1,6 +1,6 @@
 ---
 layout: tagpage
 title: "Chords"
-category: "Jazz"
+category: jazz
 tag: chords
 ---
