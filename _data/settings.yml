@@ -11,6 +11,7 @@ menu:
 - {name: 'Photos', path: 'menu', url: 'photos.html'}
 - {name: 'All Posts', path: 'menu', url: 'allposts.html'}
 - {name: 'About', path: 'menu', url: 'about.html'}
+- {name: 'Search', path: 'menu', url: 'search.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
