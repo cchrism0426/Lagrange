@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Someday My Prince Will Come Solo Transcription (John Coltrane)"
+title: "Transcriptions #1: Someday My Prince Will Come John Coltrane Solo"
 author: "Chris Cheung"
 categories: jazz
 tags: [transcriptions, jazz]
 image: records.jpg
 ---
 
-This rendition of "Someday My Prince Will Come" was performed by Miles Davis, John Coltrane, Wynton Kelly, Paul Chambers, and Jimmy Cobb. The solo by John Coltrane starts around 5:52. "Someday My Prince Will Come" is one of my favorite tunes.
+This rendition of "Someday My Prince Will Come" was performed by Miles Davis, John Coltrane, Wynton Kelly, Paul Chambers, and Jimmy Cobb. The solo by John Coltrane starts around 5:52 and my transcription ends around 6:12. "Someday My Prince Will Come" is one of my favorite tunes.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Lo18F5ObPng?start=352" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
