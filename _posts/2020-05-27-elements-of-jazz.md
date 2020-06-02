@@ -67,7 +67,7 @@ Play the above arrangement of "Autumn Leaves" with straighter eighth notes, a mo
 
 Improvising is spontaneously creating new music using the three elements described above: melody, harmony, and rhythm. The harmony is spelled out for you in the chord changes, which you can also choose to modify with substitution and reharmonization to your discretion. Deciding the melody to play can be done by ear, but can also be explained through music theory by realizing that each chord implies a scale. First play a C major scale over a C maj7 chord. Sounds pretty good right? Now play that same C major scale over a B maj7 chord. Now that sounds just great. There are multiple scales that sound good over each chord.
 
-By "sound good", I mean sound consonant. Improvisation done well plays around with building tension and releasing tension. One way of building tension is by playing over scales that don't match the chord.
+By "sound good," I mean sound consonant. Improvisation done well plays around with building tension and releasing tension. One way of building tension is by playing over scales that don't match the chord.
 
 Going back to the example of a C major scale over a C maj7 chord, what this means for when you're improvising is that when you see the chord is a C maj7 chord, you can view the C major scale as an available pool of notes that you can use to play a consonant note against the C maj7 chord.
 
