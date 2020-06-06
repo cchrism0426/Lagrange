@@ -15,7 +15,7 @@ image: sheet-music.jpg
 
 ## Intervals
 
-Before learning about chords you need a brief knowledge of intervals. Intervals are used to name the spaces between two notes. Let's call the distance between two adjacent keys on a keyboard a half-step. Then, the distance of one half-step is called a minor 2nd, two half-steps a major 2nd, three half-steps a minor 3rd, etc. All the intervals are laid out for you here with respect to C.
+Before learning about chords, you need a brief knowledge of intervals. Intervals are used to name the spaces between two notes. Let's call the distance between two adjacent keys on a keyboard a half-step. Then, the distance of one half-step is called a minor 2nd, two half-steps a major 2nd, three half-steps a minor 3rd, etc. All the intervals are laid out for you here with respect to C.
 
 ![alt text]({{ site.github.url }}/assets/img/basics-of-triads-and-seventh-chords/intervals-1.png "Intervals in C")
 
