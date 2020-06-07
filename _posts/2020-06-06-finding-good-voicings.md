@@ -7,7 +7,7 @@ tags: [voicing, jazz]
 image: stretch.jpg
 ---
 
-To give some context, voicing is, given a chord name and quality, choosing the notes to play to represent the chord. The key to picking a good voicing is context: context of the chords that were played around the current chord. To figure out what voicing to use in a given context, you need to be aware of the different characteristics of sound that you can control with voicings.
+To give some context: voicing is, given a chord name and quality, choosing the notes to play to represent the chord. The key to picking a good voicing is context: context of the chords that were played around the current chord. To figure out what voicing to use in a given context, you need to be aware of the different characteristics of sound that you can control with voicings.
 
 - [Voice Leading](#voice-leading)
 - [Consonance and Dissonance](#consonance-and-dissonance)

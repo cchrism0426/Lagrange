@@ -7,6 +7,8 @@ tags: [basics, chords, jazz]
 image: sheet-music.jpg
 ---
 
+It's important to be familiar with your chords when playing jazz, because when reading jazz music the chords aren't written out for you: the harmony is only given to you in the form of chord names.
+
 - [Intervals](#intervals)
 - [Triads](#triads)
 - [Seventh Chords](#seventh-chords)
