@@ -7,11 +7,11 @@ tags: [basics, jazz]
 image: sheet-music.jpg
 ---
 
-A lead sheet is what sheet music in jazz looks like. It consists of the melody and the name of the chords that make up the harmony. Sometimes there are lyrics too. This article won't be about how to read music notes, but about how to interpret a lead sheet.
+A lead sheet is what sheet music in jazz looks like. It consists of the melody and the name of the chords that make up the harmony. Sometimes there are lyrics too. This article won't be about how to read music notes, but about how to interpret a lead sheet. We'll be using the standard "All The Things You Are" for examples in this article.
 
 <a href="{{site.github.url}}/assets/sheet-music/all-the-things-you-are.pdf" target="_blank">all-the-things-you-are.pdf</a>
 
-A jazz standard is a well-known tune among jazz musicians, hence the name "standard." There isn't a definitive list of what's considered a jazz standard, but the tunes found in the Real Book series are more or less what jazz musicians consider standards. We'll be looking at the lead sheet for the jazz standard "All The Things You Are."
+A jazz standard is a well-known tune among jazz musicians, hence the name "standard." There isn't a definitive list of what's considered a jazz standard, but the tunes found in the Real Book series are more or less what jazz musicians consider standards.
 
 - [Melody and Harmony](#melody-and-harmony)
 - [Embellishing the Melody](#embellishing-the-melody)
@@ -23,7 +23,7 @@ A jazz standard is a well-known tune among jazz musicians, hence the name "stand
 
 At first glance, you can tell that the lead sheet just gives you instructions for the melody and harmony. The melody is the notes written on the page, and the harmony is denoted through the chord names. If you have seen sheet music before, this might look different than other sheet music you have seen. In most sheet music, the composer tells you exactly what they want to play: the right hand and left hand are both written down and specific dynamics are spelled out as well. A lead sheet doesn't give you that kind of precise instruction; lead sheets serve more as guidelines.
 
-In a group situation, you'll have the single note instruments playing the melody and the rhythm section working the harmony and rhythm (drums + chordal instruments like piano and guitar + bass). In the case of solo piano, you'll have to do this all yourself! A good starting point is to play the melody with the right hand and shell chords with the left hand.
+In a group situation, you'll have the single note instruments playing the melody and the rhythm section working the harmony and rhythm (drums + chordal instruments like piano and guitar + bass). In the case of solo piano, you'll have to do this all yourself! A good starting point is to play the melody with the right hand and shell chords with the left hand. If you're unfamiliar with chords, check out [Basics of Triads and Seventh Chords]({% post_url 2020-06-02-basics-of-triads-and-seventh-chords %}).
 
 Here are some examples with the right hand playing the melody and the left hand comping (playing harmony and rhythm).
 

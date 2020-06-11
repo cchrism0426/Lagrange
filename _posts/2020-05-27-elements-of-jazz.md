@@ -53,7 +53,7 @@ Rhythm is the moments in time in the music where you play the notes. You can pla
 
 ![alt-text]({{site.github.url}}/assets/img/elements-of-jazz/autumn-leaves-swing.png "Autumn Leaves with Swing")
 
-Above is an example of "Autumn Leaves" with more interesting rhythms incorporated into both the melody and the chords. Playing specific chords with specific rhythms is called comping, and this is an essential skill for jazz piano. Sometimes when you're playing solo piano, your left hand may be comping for your right hand as shown above, or sometimes when you're playing in a band you may be comping for the band. By comping, you're providing a layer of harmony and rhythm to the music. The little symbol on the top left of the example is the symbol for swing (on the lead sheet the composer may just write the word "swing" and this means the same thing). By equating eighth notes to triplets, the music is indicating that the second eighth note should be played further on the back of the beat. The less you swing, or the more straight you play, the less back you play the second eighth note.
+Above is an example of "Autumn Leaves" with more interesting rhythms incorporated into both the melody and the chords. Playing specific chords with specific rhythms is called comping, and this is an essential skill for jazz piano. Sometimes when you're playing solo piano, your left hand may be comping for your right hand as shown above, or sometimes when you're playing in a band you may be comping for the band. By comping, you're providing a layer of harmony and rhythm to the music. The little symbol on the top left of the example is the symbol for swing (on the lead sheet the composer may just write the word "swing" and this means the same thing). By equating eighth notes to triplets, the music is indicating that the second eighth note should be played further on the back of the beat. The less you swing, or the more straight you play, the less back you play the second eighth note. Jazz songs are swung by default.
 
 Not all types of jazz music swing and not all types of jazz music swing the same amount. This intuition, same as the intuition for melody and harmony, can be gained through listening to more jazz. 
 
@@ -65,9 +65,9 @@ Play the above arrangement of "Autumn Leaves" with straighter eighth notes, a mo
 
 ## Improvisation
 
-Improvising is spontaneously creating new music using the three elements described above: melody, harmony, and rhythm. The harmony is spelled out for you in the chord changes, which you can also choose to modify with substitution and reharmonization to your discretion. Deciding the melody to play can be done by ear, but can also be explained through music theory by realizing that each chord implies a scale. First play a C major scale over a C maj7 chord. Sounds pretty good right? Now play that same C major scale over a B maj7 chord. Now that sounds just great. There are multiple scales that sound good over each chord.
+Improvising is spontaneously creating new music using the three elements described above: melody, harmony, and rhythm. The harmony is spelled out for you in the chord changes. Deciding the melody to improvise can be done by ear, but can also be explained through music theory by realizing that each chord implies a number of scales. First play a C major scale over a C maj7 chord. Sounds pretty good right? Now play that same C major scale over a B maj7 chord. That doesn't sound as good.
 
-By "sound good," I mean sound consonant. Improvisation done well plays around with building tension and releasing tension. One way of building tension is by playing over scales that don't match the chord.
+By "sound good," I mean sound consonant. Improvisation done well plays around with building tension and releasing tension. One way of building tension is by playing over scales that don't match with the chord.
 
 Going back to the example of a C major scale over a C maj7 chord, what this means for when you're improvising is that when you see the chord is a C maj7 chord, you can view the C major scale as an available pool of notes that you can use to play a consonant note against the C maj7 chord.
 
