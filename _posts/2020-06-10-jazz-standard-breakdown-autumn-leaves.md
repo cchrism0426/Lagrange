@@ -54,7 +54,7 @@ Just playing whole notes in the left hand is good to start off with, but we can 
 
 ![alt-text]({{site.github.url}}/assets/img/jazz-standard-breakdown-autumn-leaves/comping-1.png "Autumn Leaves Comping")
 
-There's no set rule to this&mdash;just do what you feel. I would listen to recordings to get a feel for what kind of rhythms sound good. Playing on an upbeat is good for creating tension, and playing on a downbeat for releasing tension. Also this should be <a href="{{site.github.url}}/jazz/elements-of-jazz.html#rhythm">swung</a>.
+There's no set rule to this&mdash;just do what you feel. I would listen to [recordings](#recordings) to get a feel for what kind of rhythms sound good. Playing on an upbeat is good for creating tension, and playing on a downbeat for releasing tension. Also this should be <a href="{{site.github.url}}/jazz/elements-of-jazz.html#rhythm">swung</a>.
 
 ## Scales for Improvisation
 
