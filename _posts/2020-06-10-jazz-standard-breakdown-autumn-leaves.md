@@ -7,7 +7,7 @@ tags: [standards, basics, jazz]
 image: jazz-band.jpg
 ---
 
-In this article I will be going over a beginner's breakdown to the jazz standard "Autumn Leaves." If this is your first time going over a jazz standard, I would suggest first skimming over [How to Read a Lead Sheet]({% post_url 2020-06-06-how-to-read-a-lead-sheet %}).
+In this article I will be going over a beginner's breakdown to the jazz standard "Autumn Leaves." If this is your first time going over a jazz standard, I suggest first skimming over [How to Read a Lead Sheet]({% post_url 2020-06-06-how-to-read-a-lead-sheet %}).
 
 <a href="{{site.github.url}}/assets/sheet-music/autumn-leaves.pdf" target="_blank">autumn-leaves.pdf</a>
 
