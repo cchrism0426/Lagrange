@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Common Alterations"
+title: "Common Extensions and Alterations"
 author: "Chris Cheung"
 categories: jazz
 tags: [chords, scales, jazz]
