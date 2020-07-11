@@ -43,7 +43,7 @@ Here is an example of a D-7 rootless voicing that turns out to be a fragment cho
 
 ![alt-text]({{site.github.url}}/assets/img/harmonic-function-of-rootless-chords-in-solo-piano/fragment-chord.png "D-7 G7 Rootless")
 
-This fragment chord has a greater sound of ambiguity and lack of direction. The lack of a third gives ambiguity to its quality; it could be a major 7 or a minor major 7 depending on if the third is minor or major. This fragment chord is therefore not a tonal chord; its function more closely resembles that of quartal chords, where we're thinking less in terms of harmonic movement and more in terms of groups of notes that suggest a certain mode/scale.
+A fragment chord has a greater sound of ambiguity and lack of direction. The lack of a third gives ambiguity to its quality; it could be a major 7 or a minor major 7 depending on if the third is minor or major. A fragment chord is therefore not a tonal chord but a modal one; its function more closely resembles that of quartal chords, where we're thinking less in terms of harmonic movement and more in terms of groups of notes that suggest a certain mode/scale.
 
 ## Final Note
 
