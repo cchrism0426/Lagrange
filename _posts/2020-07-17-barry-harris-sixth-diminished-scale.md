@@ -26,7 +26,7 @@ The Barry Harris sixth diminished scale is a system for attaching chords to each
 
 ![alt text]({{ site.github.url }}/assets/img/barry-harris-diminished-scale/c-scale.png "C Major Diminished Sixth Scale")
 
-There are a couple things to notice. The first is that going up the scale, you're alternating between a diminished chord and a major chord, in this case C6 and Bo7. This is what gives the Barry Harris sixth diminished scale its characteristic sound. If you read my article about [diminished chords]({% post_url 2020-06-14-all-about-diminished-chords %}), you're aware of the relationship between diminished chords and dominant chords. Diminished chords are substitutes for dominant chords. Therein lies the essence of the Barry Harris sixth diminished scale. Let's examine the Bo7 of the C major sixth diminished scale.
+There are a couple things to notice. The first is that going up the scale, you're alternating between a diminished chord and a major chord, in this case C6 and Bo7. This is what gives the Barry Harris sixth diminished scale its characteristic sound. If you read my article about [diminished chords]({% post_url 2020-06-14-all-about-diminished-chords %}), you'll be aware of the relationship between diminished chords and dominant chords. Diminished chords are substitutes for dominant chords. Therein lies the essence of the Barry Harris sixth diminished scale. Let's examine the Bo7 of the C major sixth diminished scale.
 
 Bo7 can be renamed as Abo7, which is a substitute chord for G7, which is the dominant chord of CMaj7. What we're essentially doing is turning a scale into a I-V-I-V-I... progression. Each note/chord on the scale resolves into the next, and so forth.
 
