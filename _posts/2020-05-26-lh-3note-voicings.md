@@ -4,7 +4,7 @@ title: "Left Hand 3-Note Voicings"
 author: "Chris Cheung"
 categories: jazz
 tags: [voicing, jazz]
-image: stretch.jpg
+image: geese-v.jpg
 ---
 
 Left hand 3-note voicings are one of the essential building blocks for solo jazz piano. They can be used to comp for yourself while you're playing a standard or soloing. They can also be used as the base upon which you build thicker, two-handed voicings. They are colorful voicings that are easier to think about than 4-note voicings. Familiarity with 3-note voicings can also help you create different 4-note voicings, as 4-note voicings are just 3-note voicings with an extra note.
