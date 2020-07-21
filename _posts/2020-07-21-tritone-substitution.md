@@ -25,7 +25,7 @@ Here is what it looks like after a tritone substitution:
 
 ![alt text]({{ site.github.url }}/assets/img/tritone-substitution/tritone-sub.png "Tritone Substitution")
 
-As you can see, what we've changed is we've changed the G7 to a Db7. Now instead of the root going from the D down a fifth to the G and down another fifth to the C, we have the root going from D down a half-step to Db and down another half-step to C.
+As you can see, what we've changed is we've changed the G7 to a Db7. Now instead of the root going from the D down a fifth to the G and down another fifth to the C, we have the root going from D down a half step to Db and down another half step to C.
 
 That's really all there is to it; it's very simple. When you see a 2-5-1 progression, you just change the 5 to a b2 and you're done.
 
@@ -39,7 +39,7 @@ We see that there's a 2-5-1 progression in the key of Ab major in the 3rd and 4t
 
 ![alt text]({{ site.github.url }}/assets/img/tritone-substitution/danny-boy-sub.png "Danny Boy Tritone Substitution.")
 
-Notice how it sounds a bit more dissonant and less vanilla. It's good to put these into your playing and change up your 2-5-1s. The 2-5-1 progression is a very common sound in jazz songs, so if you want your playing to sound less homogenous, you should reharmonize some of the 2-5-1s into tritone substitutions.
+Notice how it sounds a bit more dissonant and less vanilla. You also get the root movement of half steps instead of fifths. It's good to put these into your playing and change up your 2-5-1s. The 2-5-1 progression is a very common sound in jazz songs, so if you want your playing to sound less homogenous, you should reharmonize some of the 2-5-1s into tritone substitutions.
 
 ## The Theory
 
