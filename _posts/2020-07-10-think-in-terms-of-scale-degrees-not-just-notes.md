@@ -36,7 +36,7 @@ Play both versions of "Someday My Prince Will Come" and listen to how the sound 
 
 In the first version, the F is the 5th degree of a major seven chord, which makes it sound more firm and resolute. In the second version the F is the 9th degree of a major seven chord, which makes it sound softer (not in terms of dynamics, but in terms of texture... imagine a soft fleece blanket) as well as introduce a little tension/clash. Looking at the Bb, in the first version it is the flatted 6th degree of a dominant seven chord, which gives the note a lot of tension and clash. The Bb in the second version is once again the 9th degree and you can hear how it also sounds softer with a mild amount of tension/clash (listen for the tension between the melody and chord, not the tension within the chord itself).
 
-Don't worry if it's difficult to hear these characteristics of these scale degrees right now. It was difficult for me to hear in the beginning, but through ear training and being conscious of scale degrees in my practicing, I began to hear the differences between the scale degrees.
+Don't worry if it's difficult to hear these characteristics of these scale degrees right now. It was difficult for me to hear in the beginning, but through ear training and being conscious of scale degrees in my practicing, I began to hear the differences between the scale degrees. A good place to start is to recognize that the chord tones (1, 3, 5, 7) sound consonant and the other scale degrees (2, 4, 6) are dissonant.
 
 Being able to hear the unique sounds of each scale degree is useful for [reharmonization]({% post_url 2020-06-01-reharmonization-without-the-theory %}), improvisation, and a greater understanding of melody as a whole.
 
