@@ -30,6 +30,7 @@ reharmonization: ways-to-eat-pop.jpg
 standards: jazz-band.jpg
 transcriptions: records.jpg
 voicing: geese-v.jpg
+improvisation: rain-on-water.jpg
 thoughts: deep-bill.png
 
 ## Final Note
