@@ -3,7 +3,7 @@ layout: post
 title: "Barry Harris Sixth Diminished Scale"
 author: "Chris Cheung"
 categories: jazz
-tags: [reharmonization, jazz]
+tags: [reharmonization, scales, jazz]
 image: ways-to-eat-pop.jpg
 ---
 

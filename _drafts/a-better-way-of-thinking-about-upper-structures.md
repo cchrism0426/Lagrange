@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Template"
+title: "A Better Way of Thinking About Upper Structures"
 author: "Chris Cheung"
 categories: jazz
 tags: [jazz]
@@ -28,7 +28,6 @@ image: blocks-black.jpg
 jazz: painting-thick-colorful-lines.jpg
 basics: sheet-music.jpg
 chords: blocks-colored.jpg
-scales: stairs.jpg
 reharmonization: ways-to-eat-pop.jpg
 standards: jazz-band.jpg
 transcriptions: records.jpg
