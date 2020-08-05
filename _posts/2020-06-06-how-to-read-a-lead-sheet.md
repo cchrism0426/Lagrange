@@ -29,11 +29,11 @@ Here are some examples with the right hand playing the melody and the left hand 
 
 This is level 1 (whole note shell chords):
 
-![alt-text]({{site.github.url}}/assets/img/how-to-read-a-lead-sheet/comping-1.png "All The Things You Are Comping 1")
+![alt-text]({{site.github.url}}/assets/posts/how-to-read-a-lead-sheet/comping-1.png "All The Things You Are Comping 1")
 
 This is level 2 (shell chords with interesting rhythms):
 
-![alt-text]({{site.github.url}}/assets/img/how-to-read-a-lead-sheet/comping-2.png "All The Things You Are Comping 2")
+![alt-text]({{site.github.url}}/assets/posts/how-to-read-a-lead-sheet/comping-2.png "All The Things You Are Comping 2")
 
 You'll see that in level 2 I'm also changing the melody a bit by adding some repetition and changing the rhythm (so this is actually more like level 2.5). This brings me to my next point: in lead sheets, the written melody is also just a guideline. 
 
@@ -43,9 +43,9 @@ You can embellish or spice up the melody as long as it follows the same spirit o
 
 Here are the first 8 measures of "All The Things You Are" with the melody embellished.
 
-![alt-text]({{site.github.url}}/assets/img/how-to-read-a-lead-sheet/embellish-melody-1.png "All The Things You Are Embellished Melody")
+![alt-text]({{site.github.url}}/assets/posts/how-to-read-a-lead-sheet/embellish-melody-1.png "All The Things You Are Embellished Melody")
 
-![alt-text]({{site.github.url}}/assets/img/how-to-read-a-lead-sheet/embellish-melody-2.png "All The Things You Are Embellished Melody")
+![alt-text]({{site.github.url}}/assets/posts/how-to-read-a-lead-sheet/embellish-melody-2.png "All The Things You Are Embellished Melody")
 
 If you play this version, you'll hear that even though we added a lot of notes and spiced up the rhythms, you can still hear the original tune throughout. This is because in our embellished version we are still targeting the notes that outline the original melody. You get a better feel for how to do this after listening to more recordings and trying it out on your own.
 

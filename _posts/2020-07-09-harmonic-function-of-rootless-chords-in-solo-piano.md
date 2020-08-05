@@ -21,17 +21,17 @@ When you play a rootless chord you're essentially doing a reharmonization. I'll 
 
 Let's take a look at a ii-V-I progression:
 
-![alt-text]({{site.github.url}}/assets/img/harmonic-function-of-rootless-chords-in-solo-piano/2-5-1-rooted.png "D-7 G7 CMaj7 Rooted")
+![alt-text]({{site.github.url}}/assets/posts/harmonic-function-of-rootless-chords-in-solo-piano/2-5-1-rooted.png "D-7 G7 CMaj7 Rooted")
 
 If we use a rootless voicing for D-7, we get this new progression:
 
-![alt-text]({{site.github.url}}/assets/img/harmonic-function-of-rootless-chords-in-solo-piano/2-5-1-rootless.png "D-7 G7 CMaj7 Rootless")
+![alt-text]({{site.github.url}}/assets/posts/harmonic-function-of-rootless-chords-in-solo-piano/2-5-1-rootless.png "D-7 G7 CMaj7 Rootless")
 
 We'll see that our rootless voicing for D-7 is essentially an FMaj7, so we've reharmonized the ii-V-I progression. This results in a less "grounded" sound because the "grounded" sound comes from the root movement of a fifth. This is called an authentic cadence and it is the most compelling cadence in music that leads to the greatest feeling of resolution. D to G is an authentic cadence. When we play a rootless voicing for D-7, reharmonizing it to FMaj7, our root movement is now IV-V-I. We have taken away that first authentic cadence, which is why this rootless voicing feels less "grounded."
 
 There are a multitude of different chords that could arise out of a rootless voicing. This is especially true for dominant chords because of all the different alterations we can make to them. Here are some examples of rootless voicings of G7 renamed to their appropriate chord names in a solo piano context:
 
-![alt-text]({{site.github.url}}/assets/img/harmonic-function-of-rootless-chords-in-solo-piano/G-C-rootless.png "G7 CMaj7 Rootless")
+![alt-text]({{site.github.url}}/assets/posts/harmonic-function-of-rootless-chords-in-solo-piano/G-C-rootless.png "G7 CMaj7 Rootless")
 
 Notice that all of these, to varying degrees, feel less grounded than the G to C authentic cadence we're reharmonizing. 
 
@@ -41,7 +41,7 @@ When going through and relabeling different rootless voicings, you'll notice tha
 
 Here is an example of a D-7 rootless voicing that turns out to be a fragment chord:
 
-![alt-text]({{site.github.url}}/assets/img/harmonic-function-of-rootless-chords-in-solo-piano/fragment-chord.png "D-7 G7 Rootless")
+![alt-text]({{site.github.url}}/assets/posts/harmonic-function-of-rootless-chords-in-solo-piano/fragment-chord.png "D-7 G7 Rootless")
 
 A fragment chord has a greater sound of ambiguity and lack of direction. The lack of a third gives ambiguity to its quality; it could be a major 7 or a minor major 7 depending on if the third is minor or major. A fragment chord is therefore not a tonal chord but a modal one; its function more closely resembles that of quartal chords, where we're thinking less in terms of harmonic movement and more in terms of groups of notes that suggest a certain mode/scale.
 

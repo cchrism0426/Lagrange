@@ -21,7 +21,7 @@ There are certain building blocks of music that you use to create a piece of jaz
 
 Melody is the forefront of what the listener hears when listening to a song; it's the linear sequence of notes that the listener hears when hearing the song. When you're humming a song stuck in your head, you're most likely humming the melody. When you look at a jazz standard, the melody is the notes written on there. Taking a look at the first 4 bars of the jazz standard, "Autumn Leaves", the melody is as follows.
 
-![alt-text]({{site.github.url}}/assets/img/elements-of-jazz/autumn-leaves-melody.png "Melody of Autumn Leaves")
+![alt-text]({{site.github.url}}/assets/posts/elements-of-jazz/autumn-leaves-melody.png "Melody of Autumn Leaves")
 
 Melody has a relationship with harmony that I'll further explain in the section about [improvisation](#improvisation).
 
@@ -29,21 +29,21 @@ Melody has a relationship with harmony that I'll further explain in the section 
 
 Harmony is the underlying quality of the music you are playing. This quality can be described with a chord name and type. This is "Autumn Leaves" with the harmony specified (A-7 means A minor 7).
 
-![alt-text]({{site.github.url}}/assets/img/elements-of-jazz/autumn-leaves-chord-names.png "Autumn Leaves with Chord Names")
+![alt-text]({{site.github.url}}/assets/posts/elements-of-jazz/autumn-leaves-chord-names.png "Autumn Leaves with Chord Names")
 
 Harmony is expressed through playing chords.
 
-![alt-text]({{site.github.url}}/assets/img/elements-of-jazz/autumn-leaves-block-chords.png "Autumn Leaves with Block Chords")
+![alt-text]({{site.github.url}}/assets/posts/elements-of-jazz/autumn-leaves-block-chords.png "Autumn Leaves with Block Chords")
 
 Voicing is how you create the chords: what notes you use to create the chords and in which order you stack them. Jazz chords commonly have extensions of the 9th, 11th, or 13th degree which you can incorporate into your voicings. These extensions are also sometimes further altered by a sharp or a flat, most commonly with dominant chord voicings. A good rule of thumb for voicings is to always include the shell in your chord and avoid doubling notes other than the root and fifth.
 
-![alt-text]({{site.github.url}}/assets/img/elements-of-jazz/autumn-leaves-voicings.png "Autumn Leaves with Different Voicings")
+![alt-text]({{site.github.url}}/assets/posts/elements-of-jazz/autumn-leaves-voicings.png "Autumn Leaves with Different Voicings")
 
 Above is an example of "Autumn Leaves" with more interesting voicings utilizing concepts such as rootless voicings, extensions and alterations, and voice leading. Context is very important! Try playing the D7 voicing alone and then the D7 voicing within the chord progression. It sounds very dissonant by itself, but the dissonance goes well within the context of the surrounding chords.
 
 Next, harmony is not stagnant and can be modified through reharmonizations or chord substitutions. This means adding new chords between existing ones, or substituting in different chords for existing ones.
 
-![alt-text]({{site.github.url}}/assets/img/elements-of-jazz/autumn-leaves-tritone-sub.png "Autumn Leaves with Tritone Substition")
+![alt-text]({{site.github.url}}/assets/posts/elements-of-jazz/autumn-leaves-tritone-sub.png "Autumn Leaves with Tritone Substition")
 
 Above is an example of "Autumn Leaves" with a common jazz substitution on the D7 called a tritone substitution.
 
@@ -51,7 +51,7 @@ Above is an example of "Autumn Leaves" with a common jazz substitution on the D7
 
 Rhythm is the moments in time in the music where you play the notes. You can play around with rhythm by changing when you play the chords and the melody notes. Swing is a common rhythmical element of jazz where the eighth notes are slid back and played a little later.
 
-![alt-text]({{site.github.url}}/assets/img/elements-of-jazz/autumn-leaves-swing.png "Autumn Leaves with Swing")
+![alt-text]({{site.github.url}}/assets/posts/elements-of-jazz/autumn-leaves-swing.png "Autumn Leaves with Swing")
 
 Above is an example of "Autumn Leaves" with more interesting rhythms incorporated into both the melody and the chords. Playing specific chords with specific rhythms is called comping, and this is an essential skill for jazz piano. Sometimes when you're playing solo piano, your left hand may be comping for your right hand as shown above, or sometimes when you're playing in a band you may be comping for the band. By comping, you're providing a layer of harmony and rhythm to the music. The little symbol on the top left of the example is the symbol for swing (on the lead sheet the composer may just write the word "swing" and this means the same thing). By equating eighth notes to triplets, the music is indicating that the second eighth note should be played further on the back of the beat. The less you swing, or the more straight you play, the less back you play the second eighth note. Jazz songs are swung by default.
 
@@ -59,7 +59,7 @@ Not all types of jazz music swing and not all types of jazz music swing the same
 
 Rhythm can be used to create grooves or completely change the sound of your music; it is an equally important contributer to the sound of your music as melody and harmony.
 
-![alt-text]({{site.github.url}}/assets/img/elements-of-jazz/autumn-leaves-bossa.png "Autumn Leaves in Bossa Nova")
+![alt-text]({{site.github.url}}/assets/posts/elements-of-jazz/autumn-leaves-bossa.png "Autumn Leaves in Bossa Nova")
 
 Play the above arrangement of "Autumn Leaves" with straighter eighth notes, a more laid back beat, and a little pedal if you'd like, and you'll hear that the sound has completely changed to something more reminiscent of music you'd hear on a tropical beach (Bossa Nova). 
 

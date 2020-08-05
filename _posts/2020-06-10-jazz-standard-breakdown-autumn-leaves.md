@@ -28,11 +28,11 @@ We could play "Autumn Leaves" with these root positions chords in the left hand,
 
 Looking at the first 11 measures, we see that it is just going down the circle of fifths. D is a fifth below A, G is a fifth below D, C is a fith below G, and so forth. Utilizing inversions, this makes for some easy voice leading in the left hand.
 
-![alt-text]({{site.github.url}}/assets/img/jazz-standard-breakdown-autumn-leaves/voice-lead-1.png "Autumn Leaves Voice Leading")
+![alt-text]({{site.github.url}}/assets/posts/jazz-standard-breakdown-autumn-leaves/voice-lead-1.png "Autumn Leaves Voice Leading")
 
-![alt-text]({{site.github.url}}/assets/img/jazz-standard-breakdown-autumn-leaves/voice-lead-2.png "Autumn Leaves Voice Leading")
+![alt-text]({{site.github.url}}/assets/posts/jazz-standard-breakdown-autumn-leaves/voice-lead-2.png "Autumn Leaves Voice Leading")
 
-![alt-text]({{site.github.url}}/assets/img/jazz-standard-breakdown-autumn-leaves/voice-lead-3.png "Autumn Leaves Voice Leading")
+![alt-text]({{site.github.url}}/assets/posts/jazz-standard-breakdown-autumn-leaves/voice-lead-3.png "Autumn Leaves Voice Leading")
 
 Notice the pattern when we're going down fifths? Now try filling in the chords for the rest of the song while taking into account voice leading. Pay attention to the root movements of fifths because they'll allow for easy voice leading like these.
 
@@ -40,11 +40,11 @@ As a disclaimer, voice leading is not a hard and fast rule. You should voice lea
 
 Let's say you get to measure 16 of "Autumn Leaves" and your left hand looks like this.
 
-![alt-text]({{site.github.url}}/assets/img/jazz-standard-breakdown-autumn-leaves/voice-lead-4.png "Autumn Leaves Voice Leading")
+![alt-text]({{site.github.url}}/assets/posts/jazz-standard-breakdown-autumn-leaves/voice-lead-4.png "Autumn Leaves Voice Leading")
 
 This sounds perfectly good, but let's say that you don't want your GMaj7 to sound that low. Then, you can bring it up to this.
 
-![alt-text]({{site.github.url}}/assets/img/jazz-standard-breakdown-autumn-leaves/voice-lead-5.png "Autumn Leaves Voice Leading")
+![alt-text]({{site.github.url}}/assets/posts/jazz-standard-breakdown-autumn-leaves/voice-lead-5.png "Autumn Leaves Voice Leading")
 
 There is a lapse in voice leading between D7 and GMaj7, but that's fine. It's all personal preference.
 
@@ -52,7 +52,7 @@ There is a lapse in voice leading between D7 and GMaj7, but that's fine. It's al
 
 Just playing whole notes in the left hand is good to start off with, but we can spice it up by changing up the rhythm.
 
-![alt-text]({{site.github.url}}/assets/img/jazz-standard-breakdown-autumn-leaves/comping-1.png "Autumn Leaves Comping")
+![alt-text]({{site.github.url}}/assets/posts/jazz-standard-breakdown-autumn-leaves/comping-1.png "Autumn Leaves Comping")
 
 There's no set rule to this&mdash;just do what you feel. I would listen to [recordings](#recordings) to get a feel for what kind of rhythms sound good. Playing on an upbeat is good for creating tension, and playing on a downbeat for releasing tension. Also this should be <a href="{{site.github.url}}/jazz/elements-of-jazz.html#rhythm">swung</a>.
 
@@ -62,19 +62,19 @@ Check <a href="{{site.github.url}}/jazz/elements-of-jazz.html#improvisation">thi
 
 "Autumn Leaves" is a great tune to start out with because you can basically use the G major scale over the entire tune.
 
-![alt-text]({{site.github.url}}/assets/img/jazz-standard-breakdown-autumn-leaves/scales-1.png "G Major Scale")
+![alt-text]({{site.github.url}}/assets/posts/jazz-standard-breakdown-autumn-leaves/scales-1.png "G Major Scale")
 
 You can even use them over the B7 chords, but there are some better scales we can use for those.
 
 Level 1 is to use the E major scale over the B7 chords.
 
-![alt-text]({{site.github.url}}/assets/img/jazz-standard-breakdown-autumn-leaves/scales-2.png "E Major Scale")
+![alt-text]({{site.github.url}}/assets/posts/jazz-standard-breakdown-autumn-leaves/scales-2.png "E Major Scale")
 
 Level 2 is to use the B Dominant Lydian scale over the B7 chord and the B altered scale over the B7&#9837;9 chord. These scales have fancy names, but they aren't that hard and they'll make your improvisation sound a lot better.
 
-![alt-text]({{site.github.url}}/assets/img/jazz-standard-breakdown-autumn-leaves/scales-3.png "B Dominant Lydian Scale")
+![alt-text]({{site.github.url}}/assets/posts/jazz-standard-breakdown-autumn-leaves/scales-3.png "B Dominant Lydian Scale")
 
-![alt-text]({{site.github.url}}/assets/img/jazz-standard-breakdown-autumn-leaves/scales-4.png "B Altered Scale")
+![alt-text]({{site.github.url}}/assets/posts/jazz-standard-breakdown-autumn-leaves/scales-4.png "B Altered Scale")
 
 If you examine the B Dominant Lydian scale, you'll see that it's the same as the E major scale except the E is raised a half-step up to an F-natural. The B altered scale is just the C major scale with an E-flat, so it's not that bad (a more correct scale for the B7&#9837;9 chords in "Autumn Leaves" would be the B half-whole scale because the B7&#9837;9 chords fall on an F&#9839;, which is not a note in the B altered scale. But this scale is a bit harder and the B altered scale works fine).
 
@@ -84,9 +84,9 @@ There is an exercise you can do with "Autumn Leaves" to get your toes wet with i
 
 To give an idea of what I mean, here is a transcription of the first 8 measures played with this exercise in mind.
 
-![alt-text]({{site.github.url}}/assets/img/jazz-standard-breakdown-autumn-leaves/improv-1.png "Autumn Leaves Improv")
+![alt-text]({{site.github.url}}/assets/posts/jazz-standard-breakdown-autumn-leaves/improv-1.png "Autumn Leaves Improv")
 
-![alt-text]({{site.github.url}}/assets/img/jazz-standard-breakdown-autumn-leaves/improv-2.png "Autumn Leaves Improv")
+![alt-text]({{site.github.url}}/assets/posts/jazz-standard-breakdown-autumn-leaves/improv-2.png "Autumn Leaves Improv")
 
 Notice how I'm only using the G major scale for the parts that are improvised (don't worry about the B&#9837; in the 8th measure&mdash;that is what we call an approach note). Try this on your own and for the entire song.
 

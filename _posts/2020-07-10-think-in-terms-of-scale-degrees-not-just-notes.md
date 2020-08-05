@@ -9,11 +9,11 @@ image: painting-thick-colorful-lines.jpg
 
 When you first start learning music, you learn note names. You learn how to read note names on a music staff and how to play the note on your instrument. When you learn a piece of music you learn it in terms of these note names. Take the tune "Someday My Prince Will Come" as an example:
 
-![alt text]({{ site.github.url }}/assets/img/think-in-terms-of-scale-degrees-not-just-notes/someday-my-prince-will-come-notes.png "Someday My Prince Will Come Notes")
+![alt text]({{ site.github.url }}/assets/posts/think-in-terms-of-scale-degrees-not-just-notes/someday-my-prince-will-come-notes.png "Someday My Prince Will Come Notes")
 
 You would read this as the series of notes, F-Bb-F#-A-G-G. This is perfectly right, but there is a next step to interpreting the note on the page. You should interpret the note as a scale degree of the incident chord/scale. This is "Someday My Prince Will Come" interpreted in this way:
 
-![alt text]({{ site.github.url }}/assets/img/think-in-terms-of-scale-degrees-not-just-notes/someday-my-prince-will-come-scale-degrees.png "Someday My Prince Will Come Scale Degrees")
+![alt text]({{ site.github.url }}/assets/posts/think-in-terms-of-scale-degrees-not-just-notes/someday-my-prince-will-come-scale-degrees.png "Someday My Prince Will Come Scale Degrees")
 
 F is the 5th degree of Bb major, Bb is the flatted 6th degree of D dominant, and so forth.
 
@@ -30,9 +30,9 @@ Another reason is that you learn to recognize the sound of each scale degree wit
 
 Play both versions of "Someday My Prince Will Come" and listen to how the sound of the F and Bb in the first two measures differ between each version.
 
-![alt text]({{ site.github.url }}/assets/img/think-in-terms-of-scale-degrees-not-just-notes/someday-my-prince-will-come-og.png "Someday My Prince Will Come Original")
+![alt text]({{ site.github.url }}/assets/posts/think-in-terms-of-scale-degrees-not-just-notes/someday-my-prince-will-come-og.png "Someday My Prince Will Come Original")
 
-![alt text]({{ site.github.url }}/assets/img/think-in-terms-of-scale-degrees-not-just-notes/someday-my-prince-will-come-reharm.png "Someday My Prince Will Come Reharmonized")
+![alt text]({{ site.github.url }}/assets/posts/think-in-terms-of-scale-degrees-not-just-notes/someday-my-prince-will-come-reharm.png "Someday My Prince Will Come Reharmonized")
 
 In the first version, the F is the 5th degree of a major seven chord, which makes it sound more firm and resolute. In the second version the F is the 9th degree of a major seven chord, which makes it sound softer (not in terms of dynamics, but in terms of texture... imagine a soft fleece blanket) as well as introduce a little tension/clash. Looking at the Bb, in the first version it is the flatted 6th degree of a dominant seven chord, which gives the note a lot of tension and clash. The Bb in the second version is once again the 9th degree and you can hear how it also sounds softer with a mild amount of tension/clash (listen for the tension between the melody and chord, not the tension within the chord itself).
 
@@ -50,7 +50,7 @@ One of the tough parts of switching your thinking to scale degrees is creating t
 
 Take this rootless voicing for example: 
 
-![alt text]({{ site.github.url }}/assets/img/think-in-terms-of-scale-degrees-not-just-notes/rootless-c7.png "Rootless C7 Voicing")
+![alt text]({{ site.github.url }}/assets/posts/think-in-terms-of-scale-degrees-not-just-notes/rootless-c7.png "Rootless C7 Voicing")
 
 When I practice this, I first close my eyes and tell myself the key I'm in (C). Then I tell myself the name of the 3rd degree (E) and visualize it on the piano. I repeat this with the 7th degree (Bb), 13th degree (A), and 9th degree (D). I basically start with the shell (3 and 7) as it's the most important characteristic of each chord, and then work my way up the voicing for the rest of the scale degrees. After doing all this, I play the voicing on the piano.
 
@@ -58,9 +58,9 @@ In the beginning I only did this method with the shell and added the other scale
 
 I do this for all keys, working my way down one whole tone scale a day.
 
-![alt text]({{ site.github.url }}/assets/img/think-in-terms-of-scale-degrees-not-just-notes/voicing-f-whole-tone.png "Rootless Voicings down F Whole Tone Scale")
+![alt text]({{ site.github.url }}/assets/posts/think-in-terms-of-scale-degrees-not-just-notes/voicing-f-whole-tone.png "Rootless Voicings down F Whole Tone Scale")
 
-![alt text]({{ site.github.url }}/assets/img/think-in-terms-of-scale-degrees-not-just-notes/voicing-e-whole-tone.png "Rootless Voicings down E Whole Tone Scale")
+![alt text]({{ site.github.url }}/assets/posts/think-in-terms-of-scale-degrees-not-just-notes/voicing-e-whole-tone.png "Rootless Voicings down E Whole Tone Scale")
 
 It's a slow way of practicing voicings, but you get faster at it and it pays off.
 

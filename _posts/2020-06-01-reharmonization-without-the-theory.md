@@ -20,21 +20,21 @@ Reharmonization is adding to or changing the existing chords of a song to make i
 
 One way I decide what chord to use is by thinking about what scale degree I want the melody to be in relation to the chord. Different scale degrees have different levels of tension against the chord.
 
-![alt-text]({{site.github.url}}/assets/img/reharm-without-theory/days-of-wine-and-roses-original.png "Days Of Wine and Roses Original Harmony")
+![alt-text]({{site.github.url}}/assets/posts/reharm-without-theory/days-of-wine-and-roses-original.png "Days Of Wine and Roses Original Harmony")
 
 These are the first three chords of the standard "Days Of Wine and Roses" with the original harmony. We'll be reharmonizing the D7alt (D7 with &#9839;9&#9837;13).
 
 Let's first explore a reharmonization with less tension.
 
-![alt-text]({{site.github.url}}/assets/img/reharm-without-theory/days-of-wine-and-roses-reharm-1.png "Days Of Wine and Roses Reharmonization")
+![alt-text]({{site.github.url}}/assets/posts/reharm-without-theory/days-of-wine-and-roses-reharm-1.png "Days Of Wine and Roses Reharmonization")
 
 We see that the melody note is D. Chord tones have less tension, so we could pick a chord that would make D a chord tone. Above I've reharmonized the D7alt to a G-7 chord. D is the fifth degree of G-7 and a chord tone. Play the D above the G-7 chord and notice how consonant it sounds.
 
-![alt-text]({{site.github.url}}/assets/img/reharm-without-theory/days-of-wine-and-roses-reharm-2.png "Days Of Wine and Roses Reharmonization")
+![alt-text]({{site.github.url}}/assets/posts/reharm-without-theory/days-of-wine-and-roses-reharm-2.png "Days Of Wine and Roses Reharmonization")
 
 Above is another reharmonization. This time we've reharmonized it to C-7 so that D is the second degree. Play the D over the C-7 and notice how it is slightly more dissonant.
 
-![alt-text]({{site.github.url}}/assets/img/reharm-without-theory/days-of-wine-and-roses-reharm-3.png "Days Of Wine and Roses Reharmonization")
+![alt-text]({{site.github.url}}/assets/posts/reharm-without-theory/days-of-wine-and-roses-reharm-3.png "Days Of Wine and Roses Reharmonization")
 
 This is the most dissonant reharmonization out of the three. We've reharmonized the D7alt to an A&#9837;7. In this case the D becomes a &#9839;11. Play the D over the A&#9837;7 and notice how it sounds more dissonant than the other two reharmonizations we've done. This is because not only is the D not a chord tone, but it is also an alteration (refer to [Common Alterations]({% post_url 2020-05-29-common-alterations %}) for common alterations to chords).
 
@@ -44,9 +44,9 @@ Something else I factor into when deciding the reharmonization is the chord type
 
 Dominant 7ths and half-diminished 7ths are both dissonant chords by nature, but in this case C-7&#9837;5 sounds more dissonant because of the melody note (D). If the note was, for example, E&#9837; instead, then C7 would sound more dissonant.
 
-![alt-text]({{site.github.url}}/assets/img/reharm-without-theory/stella-by-starlight-reharm-1.png "Stella By Starlight Reharmonization")
+![alt-text]({{site.github.url}}/assets/posts/reharm-without-theory/stella-by-starlight-reharm-1.png "Stella By Starlight Reharmonization")
 
-![alt-text]({{site.github.url}}/assets/img/reharm-without-theory/stella-by-starlight-reharm-2.png "Stella By Starlight Reharmonization")
+![alt-text]({{site.github.url}}/assets/posts/reharm-without-theory/stella-by-starlight-reharm-2.png "Stella By Starlight Reharmonization")
 
 Above are two reharmonizations of a melody from the standard "Stella By Starlight" that ends in E&#9837;. Notice how here the C7 sounds more dissonant than the C-7&#9837;5. The dissonance of the chord type you choose varies depending on the melody note.
 
@@ -56,7 +56,7 @@ By root movement, I mean that you can decide which chord based on the root of th
 
 Let's revisit "Days of Wine and Roses" and that D7alt chord.
 
-![alt-text]({{site.github.url}}/assets/img/reharm-without-theory/days-of-wine-and-roses-reharm-3.png "Days Of Wine and Roses Reharmonization")
+![alt-text]({{site.github.url}}/assets/posts/reharm-without-theory/days-of-wine-and-roses-reharm-3.png "Days Of Wine and Roses Reharmonization")
 
 In the above reharmonization we're seeing a root movement of V to I. A fifth down from E&#9837; is A&#9837;. First, just play the chords for E&#9837;7&#9839;11 and A&#9837;7 and listen to the strength of the resolution. Then, play the whole thing with the melody on top and listen for the resolution between E&#9837;7&#9839;11 and A&#9837;7. 
 
@@ -64,7 +64,7 @@ Notice how we've arrived at the same chord we did from earlier when thinking in 
 
 You can use the concepts from the [Chord Type](#chord-type) section to decide which chord type to use.
 
-![alt-text]({{site.github.url}}/assets/img/reharm-without-theory/days-of-wine-and-roses-reharm-1.png "Days Of Wine and Roses Reharmonization")
+![alt-text]({{site.github.url}}/assets/posts/reharm-without-theory/days-of-wine-and-roses-reharm-1.png "Days Of Wine and Roses Reharmonization")
 
 Above is a root movement of a third from I to III. Once again, first just play the chords E&#9837;7&#9839;11 and G-7, and then play the whole thing with the melody on top while listening for the resolution from E&#9837;7&#9839;11 to G-7. As you can hear, this resolution isn't as strong. I call this side to side chord movement because it doesn't feel like it's moving the chord progression forward in a particular direction.
 
@@ -82,6 +82,6 @@ Also, remember that reharmonization isn't just substituting chords, but also add
 
 If this is all too much, then just add a dominant 7th chord a 5th or a half-step up. 99% of the time it'll sound good.
 
-![alt-text]({{site.github.url}}/assets/img/reharm-without-theory/days-of-wine-and-roses-reharm-easy.png "Days Of Wine and Roses Easy Reharmonization")
+![alt-text]({{site.github.url}}/assets/posts/reharm-without-theory/days-of-wine-and-roses-reharm-easy.png "Days Of Wine and Roses Easy Reharmonization")
 
 E7 and A7 are the added chords.

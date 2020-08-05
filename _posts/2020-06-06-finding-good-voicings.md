@@ -18,11 +18,11 @@ To give some context: voicing is, given a chord name and quality, choosing the n
 
 Voice leading is minimizing the movement (the distance between the notes) between chords. This way the chords lead into one another and create coherent phrases (not only think of your right hand as creating phrases with the melody, but also think of your left hand as creating phrases with chord movement). To see what I mean, play this example from "My Foolish Heart" with bad voice leading:
 
-![alt-text]({{site.github.url}}/assets/img/finding-good-voicings/voice-leading-bad.png "My Foolish Heart with Bad Voice Leading")
+![alt-text]({{site.github.url}}/assets/posts/finding-good-voicings/voice-leading-bad.png "My Foolish Heart with Bad Voice Leading")
 
 And then play this example that also uses block chords, but practices good voice leading:
 
-![alt-text]({{site.github.url}}/assets/img/finding-good-voicings/voice-leading-good.png "My Foolish Heart with Good Voice Leading")
+![alt-text]({{site.github.url}}/assets/posts/finding-good-voicings/voice-leading-good.png "My Foolish Heart with Good Voice Leading")
 
 This isn't to say that all your chords need to voice lead into each other. As always, it's about context (this will be the theme of this article). If you want to start a new phrase, then you can ignore voice leading.
 
@@ -32,7 +32,7 @@ Consonance and dissonance can be controlled through which notes you choose to us
 
 A good general approach to this: adding the 1 or 5 will sound more consonant, and if you add extensions, the extensions that are a half-step away from a chord tone (1, 3, 5, or 7) are more dissonant than the ones that are a whole-step away. Adding more dissonant extensions will make the chord more dissonant as well.
 
-![alt-text]({{site.github.url}}/assets/img/finding-good-voicings/consonance-and-dissonance.png "My Foolish Heart with Consonance and Dissonance")
+![alt-text]({{site.github.url}}/assets/posts/finding-good-voicings/consonance-and-dissonance.png "My Foolish Heart with Consonance and Dissonance")
 
 Play through this version of "My Foolish Heart" above and notice how voicings with more extensions sound more dissonant, and notice how we're varying the level of dissonance throughout the piece to keep it interesting. It's a constant push and pull of tension and release. Sounds a lot more interesting than the block chord version!
 
@@ -44,7 +44,7 @@ Let's think about peanut butter. There are two different textures of peanut butt
 
 Now play these four different voicings of the same chord:
 
-![alt-text]({{site.github.url}}/assets/img/finding-good-voicings/textures-1.png "C-7 Different Textures")
+![alt-text]({{site.github.url}}/assets/posts/finding-good-voicings/textures-1.png "C-7 Different Textures")
 
 All four of these voicings have the same notes; all we're changing is the locations of these notes, but all they sound different. Do you hear the different textures that result from them? The first voicing is like creamy peanut butter, the second voicing is like chunky peanut butter, the third voicing is like peanut butter brittle, and the fourth voicing is like watery peanut butter.
 
@@ -54,17 +54,17 @@ It might be confusing that I'm referring to these as consonant and dissonant lik
 
 Play this version of "My Foolish Heart" and notice the changes in textures and how they also contribute to the ebb and flow of tension and release.
 
-![alt-text]({{site.github.url}}/assets/img/finding-good-voicings/textures-2.png "My Foolish Heart Different Textures")
+![alt-text]({{site.github.url}}/assets/posts/finding-good-voicings/textures-2.png "My Foolish Heart Different Textures")
 
 Something unrelated to intervals that affect the texture of the chord is whether it is rootless or not. Rootless chords have more of a floaty quality to them even if they are constructed in thirds.
 
 Play this version of "My Foolish Heart" with rooted block chords:
 
-![alt-text]({{site.github.url}}/assets/img/finding-good-voicings/rooted.png "My Foolish Heart Rooted")
+![alt-text]({{site.github.url}}/assets/posts/finding-good-voicings/rooted.png "My Foolish Heart Rooted")
 
 And then play this version that switches between rooted and rootless voicings:
 
-![alt-text]({{site.github.url}}/assets/img/finding-good-voicings/rootless.png "My Foolish Heart Rootless")
+![alt-text]({{site.github.url}}/assets/posts/finding-good-voicings/rootless.png "My Foolish Heart Rootless")
 
 Notice how the rootless voicings sound less grounded. Try playing them without the 5th degree and you'll find that they sound even less grounded.
 

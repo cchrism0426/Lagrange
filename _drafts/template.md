@@ -13,15 +13,17 @@ image: blocks-black.jpg
 
 ## Section 1
 
-![alt text]({{ site.github.url }}/assets/img/template/sample.png "Sample Photo")
+![alt text]({{ site.github.url }}/assets/posts/template/sample.png "Sample Photo")
 
 [link to another post]({% post_url 2020-05-27-why-play-jazz %})
+
+<a href="{{site.github.url}}/jazz/post#section">post section</a>
 
 <a href="https://www.youtube.com/watch?v=gO8N3L_aERg" target="_blank">external link</a>
 
 <a href="{{site.github.url}}/assets/sheet-music/autumn-leaves.pdf" target="_blank">internal_link_to.pdf</a>
 
-<audio src="{{site.github.url}}/assets/audio/improv-idea-1-flamenco-sketches/improv.mp3" controls></audio>
+<audio src="{{site.github.url}}/assets/posts/improv-idea-1-flamenco-sketches/improv.mp3" controls></audio>
 
 ## Section 2
 

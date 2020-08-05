@@ -15,7 +15,7 @@ I got the idea for this improvisation exercise from a couple of songs. Throughou
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ThGfTO3Q1LU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-![alt text]({{ site.github.url }}/assets/img/improv-idea-1-flamenco-sketches/vamp.png "Vamp")
+![alt text]({{ site.github.url }}/assets/posts/improv-idea-1-flamenco-sketches/vamp.png "Vamp")
 
 You can play this entire vamp with your left hand while improvising over it with your right hand. Incidentally, you get some stride practice in too.
 
@@ -27,4 +27,4 @@ This vamp is like a blank canvas; you have a lot of room to improvise without wo
 
 Here is a quick clip of me tinkering around over this vamp. Notice how I don't stay in the C major scale for too long and constantly shift scales, testing out each of their sounds. Even though the vamp doesn't contain complex chord changes, you can still create tension and release through scale choice and even note choice in the consonant scale of C major.
 
-<audio src="{{site.github.url}}/assets/audio/improv-idea-1-flamenco-sketches/improv.mp3" controls></audio>
+<audio src="{{site.github.url}}/assets/posts/improv-idea-1-flamenco-sketches/improv.mp3" controls></audio>
