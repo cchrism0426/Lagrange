@@ -36,6 +36,7 @@ standards: jazz-band.jpg
 transcriptions: records.jpg
 voicing: geese-v.jpg
 improvisation: rain-on-water.jpg
+solo-piano: bright-window.jpg
 thoughts: deep-bill.png
 
 ## Final Note
