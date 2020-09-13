@@ -20,7 +20,7 @@ Over the past couple of months I've been working on the tune "Stella By Starligh
 
 <audio src="{{site.github.url}}/assets/posts/exercise-for-solo-piano-thinking-more-horizontally/stella-1.m4a" controls></audio>
 
-I was lost on why it sounded so stagnant, and upon looking at transcriptions of other jazz pianists, I realized that I was thinking too vertically.
+I was lost on why it sounded so stagnant, and upon looking at transcriptions of other jazz pianists, I realized that I was thinking too vertically and playing too many notes at once.
 
 ## Vertical vs Horizontal Thinking
 
