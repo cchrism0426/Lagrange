@@ -40,3 +40,5 @@ solo-piano: bright-window.jpg
 thoughts: deep-bill.png
 
 ## Final Note
+
+bundle exec jekyll serve --drafts
