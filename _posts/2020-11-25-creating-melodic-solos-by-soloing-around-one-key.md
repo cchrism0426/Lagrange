@@ -16,7 +16,7 @@ When I first started learning jazz, I was taught that for every chord, there are
 
 However, my solos didn't turn out sounding that much better. If anything, they sounded more disjointed, as I was constantly moving from scale to scale. 
 
-I looked at transcriptions of my favorite recordings, focusing specifically on the melodicity of these recordings. Something I ended up finding in common with all of them was that the melodic solos I enjoyed listening to mainly stayed around the same key.
+I looked at transcriptions of my favorite recordings, focusing specifically on the melodicity of these recordings. Something I found was that the melodic solos I enjoyed listening to mainly stayed around the same key.
 
 ## Keep in Mind the Original Key
 
