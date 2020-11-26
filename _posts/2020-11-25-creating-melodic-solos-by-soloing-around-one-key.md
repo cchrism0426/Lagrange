@@ -7,16 +7,16 @@ tags: [improvisation, scales, jazz]
 image: rain-on-water.jpg
 ---
 
-- [(Mostly) Stay in One Key](#mostly-stay-in-one-key)
-- [It Won't Be Bland](#it-wont-be-bland)
-- [An Example](#an-example)
-- [Final Note](#final-note)
-
 When I first started learning jazz, I was taught that for every chord, there are corresponding scales that you can use so that your playing sounds consonant. So then I got busy, trying to learn every possible scale over each chord type. I would practice soloing for songs by turning on the metrenome, going through the song and playing the scales for each chord, trying to ingrain each possible scale into my fingers. 
 
 However, my solos didn't turn out sounding that much better. If anything, they sounded more disjointed, as I was constantly moving from scale to scale. 
 
 I looked at transcriptions of my favorite recordings, focusing specifically on the melodicity of these recordings. Something I found was that the melodic solos I enjoyed listening to mainly stayed around the same key.
+
+- [(Mostly) Stay in One Key](#mostly-stay-in-one-key)
+- [It Won't Be Bland](#it-wont-be-bland)
+- [An Example](#an-example)
+- [Final Note](#final-note)
 
 ## Keep in Mind the Original Key
 
