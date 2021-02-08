@@ -36,7 +36,7 @@ I was afraid that my playing would be more bland if I changed keys less often. H
 
 ## An Example
 
-You can try following along with this solo (1:23). Notice how even though it mainly stays in one key, the well-developed melodic ideas make it sound interesting. Also notice how the few non-diatonic notes being used stand out compared to others.
+You can try following along with this solo (1:23). Notice how even though it mainly stays in one key, the well-developed melodic ideas make it sound interesting. Also notice how the few non-diatonic notes being used stand out compared to others (you can see in the transcription where the non-diatonic notes are being used by the added accidentals).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R_f_mMJAezM?start=83" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
